@@ -8,7 +8,7 @@ import os
 import requests
 
 # ====== Configuration ======
-MODEL_URL = "https://drive.google.com/uc?id=YOUR_FILE_ID&export=download"  # Replace with your actual file ID
+MODEL_URL = "https://drive.google.com/file/d/1N5i1pXashLkOd-9p5WbEAE5dmptbdxyw/view?usp=sharing"  # Replace with your actual file ID
 MODEL_PATH = "gru_seizure_prediction_model.keras"
 SCALER_PATH = "scaler.pkl"
 PCA_PATH = "pca.pkl"
